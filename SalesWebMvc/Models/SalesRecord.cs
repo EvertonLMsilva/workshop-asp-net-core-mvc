@@ -24,4 +24,4 @@ namespace SalesWebMvc.Models
             Seller = seller;
         }
     }
-       }
+}
